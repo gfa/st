@@ -21,6 +21,14 @@ stterm (0.8.3-1) unstable; urgency=medium
 
  -- Paride Legovini <paride@debian.org>  Sun, 17 May 2020 17:18:33 +0000
 
+stterm (0.8.2-1gfa1) UNRELEASED; urgency=medium
+
+  * add the st-newterm-0.8.2.diff patch
+  * add the st-xresources-20190105-3be4cf1.diff patch
+  * change the font
+
+ -- gustavo panizzo <gfa@zumbi.com.ar>  Mon, 24 Feb 2020 22:08:00 +0000
+
 stterm (0.8.2-1) unstable; urgency=medium
 
   * New upstream version 0.8.1 (closes: 921961)
