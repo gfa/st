@@ -14,7 +14,7 @@
   * More advanced example: " `'\"()[]{}"
   */
 -char *worddelimiters = " ";
-+char *worddelimiters = " `'\"()[]{}";
++char *worddelimiters = " `'\"()[]{}<>";
  
  /* selection timeouts (in milliseconds) */
  static unsigned int doubleclicktimeout = 300;
