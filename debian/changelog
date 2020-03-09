@@ -21,6 +21,15 @@ stterm (0.8.3-1) unstable; urgency=medium
 
  -- Paride Legovini <paride@debian.org>  Sun, 17 May 2020 17:18:33 +0000
 
+stterm (0.8.2-1gfa2) UNRELEASED; urgency=medium
+
+  * change the font
+  * add st-font2-20190416-ba72400.diff patch to use multiple fonts
+  * use powerline font and increase the size of the Inconsolata-zi4 from 11 to
+    12
+
+ -- gustavo panizzo <gfa@zumbi.com.ar>  Thu, 27 Feb 2020 18:45:50 +0000
+
 stterm (0.8.2-1gfa1) UNRELEASED; urgency=medium
 
   * add the st-newterm-0.8.2.diff patch
