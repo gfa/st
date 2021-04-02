@@ -21,6 +21,15 @@ stterm (0.8.3-1) unstable; urgency=medium
 
  -- Paride Legovini <paride@debian.org>  Sun, 17 May 2020 17:18:33 +0000
 
+stterm (0.8.2-1gfa4) unstable; urgency=medium
+
+  * change the font what was in use
+    DejaVu Sans Mono:pixelsize=14:antialias=true:hinting=true
+    take from a binary from 2017 with `strings`
+  * drop all other patches
+
+ -- gustavo panizzo <gfa@zumbi.com.ar>  Thu, 01 Apr 2021 21:16:23 +0000
+
 stterm (0.8.2-1gfa3) UNRELEASED; urgency=medium
 
   * add <> to worddelimiters
