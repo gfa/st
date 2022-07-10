@@ -1,3 +1,9 @@
+stterm (0.8.4-1gfa2) bullseye; urgency=medium
+
+  * add a patch to copy urls
+
+ -- gustavo panizzo <gfa@zumbi.com.ar>  Fri, 02 Apr 2021 16:38:05 +0000
+
 stterm (0.8.4-1gfa1) UNRELEASED; urgency=medium
 
   * put my patches on top of debian/0.8.4-1
